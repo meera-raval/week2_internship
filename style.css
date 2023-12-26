@@ -13,7 +13,7 @@ body {
     border-radius: 5px;
     display: block;
     color: #ffffff;
-    background-image: url("src\\bg.jpg");
+    background-image: url("bg.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -57,7 +57,7 @@ body {
   }
   
   body {
-    background-image: url("src\\pxfuel.jpg");
+    background-image: url("px.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
